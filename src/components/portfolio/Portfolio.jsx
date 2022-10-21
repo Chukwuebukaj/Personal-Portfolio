@@ -34,7 +34,7 @@ const data = [
     image: IMG4,
     title: "Tip Calculator",
     github: "https://github.com/Chukwuebukaj",
-    demo: "https://tip-calculator-ten-blond.vercel.app/",
+    demo: "https://https://tip-calc-sigma.vercel.app/",
   },
   {
     id: 5,
