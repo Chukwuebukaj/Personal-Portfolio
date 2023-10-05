@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me__image">
-            <img src={ME} alt="About image" />
+            <img src={ME} alt="About pic" />
           </div>
         </div>
 
@@ -37,10 +37,12 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit
-            quisquam voluptatum magni officiis soluta doloribus totam fugit non,
-            obcaecati quis similique natus sunt, sit voluptates sint ex id nihil
-            praesentium.
+            Skilled software engineer with 3 years of experience in web
+            application development using NodeJS, TypeScript, ReactJS and React
+            Native. Proven track record of delivering high-quality software
+            products on time and within budget. Strong problem-solving and
+            analytical skills, with a focus on improving user satisfaction and
+            writing readable, testable, maintainable, and scalable code.{" "}
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
