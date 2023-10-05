@@ -7,6 +7,7 @@ import IMG4 from "../../assets/tip-calc.jpg";
 import IMG5 from "../../assets/advice-gen.jpg";
 import IMG6 from "../../assets/multi-step-form.jpg";
 import IMG7 from "../../assets/20230924_113728.jpg";
+import IMG8 from "../../assets/mockup.png";
 
 const data = [
   {
@@ -14,6 +15,12 @@ const data = [
     title: "GetLinked: A pre-hackathon registration website",
     github: "https://github.com/Chukwuebukaj/getLinked",
     demo: "https://get-linked-psi.vercel.app/",
+  },
+  {
+    image: IMG8,
+    title: "Pavoce: A decentralized (web3) invoicing app",
+    github: "https://github.com/Chukwuebukaj/frontend",
+    demo: "https://frontend-zeta-rust.vercel.app/",
   },
   {
     image: IMG1,
